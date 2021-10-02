@@ -1,0 +1,281 @@
+{
+    "intent": [
+        {
+            "tag": "Change enablement purpose",
+            "question": [
+                "What is the purpose of change control",
+                "What is the purpose of change enablement"
+            ],
+            "response": [
+                "To maximise the number of successful changes without damaging the levels of services",
+                "to ensure that risks relating to changes have been properly assessed",
+                "to allow authorised changes to proceed"
+            ]
+        },
+        {
+            "tag": "Change enablement schedule",
+            "question": [
+                "What is a change schedule "
+            ],
+            "response": [
+                "A calendar that shows planned and historical changes",
+                "The change schedule is used to help plan changes, assist in communication, avoid conflicts, and assign resources."
+            ]
+        },
+        {
+            "tag": "What Change enablement",
+            "question": [
+                "What is the definition of change, what is a change "
+            ],
+            "response": [
+                "The addition, modification, or removal of anything that could have a direct or indirect effect on services."
+            ]
+        },
+        {
+            "tag": "Change enablement what",
+            "question": [
+                "What is Change Control",
+                "What is change enablement"
+            ],
+            "response": [
+                "Change Control is the equivalent word to Change enablement"
+            ]
+        },
+        {
+            "tag": "Change enablement focus",
+            "question": [
+                "What does change enablement focus on "
+            ],
+            "response": [
+                "Change enablement is usually focused on changes in products and services."
+            ]
+        },
+        {
+            "tag": "Change enablement scope",
+            "question": [
+                "Who describes the scope of change enablement"
+            ],
+            "response": [
+                "Each organization will define what how change enablement and control will be applied"
+            ]
+        },
+        {
+            "tag": "Change enablement applied",
+            "question": [
+                "How is the change schedule applied "
+            ],
+            "response": [
+                "It can be used after changes have been deployed to provide information needed for incident management, problem management, and improvement planning",
+                "if we know when the change happened then we can figure out did it create more problems at this time"
+            ]
+        },
+        {
+            "tag": "Change enablement model",
+            "question": [
+                "Tell me about a change model "
+            ],
+            "response": [
+                "this is a repeatable approach to the management of a particular type of change."
+            ]
+        },
+        {
+            "tag": "Change enablement authority",
+            "question": [
+                "what is a change authority"
+            ],
+            "response": [
+                "A person or group responsible for authorizing a change."
+            ]
+        },
+        {
+            "tag": "Change enablement balance",
+            "question": [
+                "Why must change balance needs "
+            ],
+            "response": [
+                "make beneficial changes that will deliver additional value with the need to protect customers and users from the adverse effect of changes"
+            ]
+        },
+        {
+            "tag": "Change enablement assess",
+            "question": [
+                "Who should assess changes "
+            ],
+            "response": [
+                "changes should be assessed by people who are able to understand the risks and the expected benefits"
+            ]
+        },
+        {
+            "tag": "Change enablement type",
+            "question": [
+                "How many types of changes are there "
+            ],
+            "response": [
+                "3 standard normal and emergency"
+            ]
+        },
+        {
+            "tag": "Change enablement difference",
+            "question": [
+                "How is change management different from change enablement"
+            ],
+            "response": [
+                "Organizational change management manages the people aspects of changes to ensure that improvements and organizational transformation initiatives are implemented successfully"
+            ]
+        },
+        {
+            "tag": "Deployment Management",
+            "question": [
+                "Which practice is responsible for moving components to live environments "
+            ],
+            "response": [
+                "The purpose of the deployment management practice is to move new or changed hardware,software, documentation, processes, or any other component to live environments. It may also be involved in deploying components to other environments for testing or staging."
+            ]
+        },
+        {
+            "tag": "Release Management ",
+            "question": [
+                "What is the purpose of release management"
+            ],
+            "response": [
+                "The purpose of the release management practice is to make new and changed services and features available for use."
+            ]
+        },
+        {
+            "tag": "IT Asset Management purpose",
+            "question": [
+                "What is the purpose of IT asset management "
+            ],
+            "response": [
+                "The purpose of the IT asset management practice is to plan and manage the full lifecycle of all IT assets, to help the organization"
+            ]
+        },
+        {
+            "tag": "IT Asset Management scope",
+            "question": [
+                "What is the scope of IT asset management"
+            ],
+            "response": [
+                "The scope of IT asset management typically includes all software, hardware, networking, cloud services, and client devices. In some cases, it may also include non-IT assets such as buildings or information"
+            ]
+        },
+        {
+            "tag": "Change enablement risk",
+            "question": [
+                "What are low risk, pre authorized changes that are well understood and fully documented, and can be implemented without needing additional authorization?"
+            ],
+            "response": [
+                "Standard Changes "
+            ]
+        },
+        {
+            "tag": "Change enablement pre",
+            "question": [
+                "Why are some changes pre authorised "
+            ],
+            "response": [
+                "because they are low risk",
+                "because the complexity is well understood"
+            ]
+        },
+        {
+            "tag": "Change enablement not",
+            "question": [
+                "What are changes that typically are not part of a change schedule"
+            ],
+            "response": [
+                "Emergency Changes as typically they need to be expedited. "
+            ]
+        },
+        {
+            "tag": "Change enablement emergency",
+            "question": [
+                "Do emergency changes go to a change authority "
+            ],
+            "response": [
+                "yes there may be a separate change authority for emergency changes typically including a small number of senior managers"
+            ]
+        },
+        {
+            "tag": "Change enablement how",
+            "question": [
+                "How does change enablement contribute to plan activities in the value chain"
+            ],
+            "response": [
+                "Changes to product and service portfolios, policies, and practices all require a certain level of control and the change enablement practice is used to provide it."
+            ]
+        },
+        {
+            "tag": "Change enablement improve",
+            "question": [
+                "How does change enablement contribute to Improve activities in the value chain"
+            ],
+            "response": [
+                "Many improvements will require changes to be made, and these should be assessed and authorized in the same way as all other changes."
+            ]
+        },
+        {
+            "tag": "Change enablement value",
+            "question": [
+                "How does change enablement contribute to engage activities in the value chain"
+            ],
+            "response": [
+                "Customers and users may need to be consulted or informed about changes, depending on the nature of the change."
+            ]
+        },
+        {
+            "tag": "Change enablement design",
+            "question": [
+                "How does change enablement contribute to design/Transition activities in the value chain"
+            ],
+            "response": [
+                "Many changes are initiated as a result of new or changed services. Change enablement activity is a major contributor to transition."
+            ]
+        },
+        {
+            "tag": "Change enablement build",
+            "question": [
+                "How does change enablement contribute to Obtain/Build activities in the value chain"
+            ],
+            "response": [
+                "Changes to components are subject to change enablement, whether they are built in house or obtained from suppliers."
+            ]
+        },
+        {
+            "tag": "Change enablement deliver",
+            "question": [
+                "How does change enablement contribute to deliver/suport  activities in the value chain"
+            ],
+            "response": [
+                "Changes may have an impact on delivery and support, and information about changes must be communicated to personnel who carry out this value chain activity. These people may also play a part in assessing and authorizing changes."
+            ]
+        },
+        {
+            "tag": "Change enablement incident",
+            "question": [
+                "What is the difference between incident management and change management "
+            ],
+            "response": [
+                "Incident management tries to mimimize the negative impacts of changes whereas change enablement tried to enbable changes "
+            ]
+        },
+        {
+            "tag": "Change enablement balance",
+            "question": [
+                "What is the makes sure that our services achieve the right balance of flexibility and reliability."
+            ],
+            "response": [
+                "Change enablement "
+            ]
+        },
+        {
+            "tag": "Change enablement person",
+            "question": [
+                "The person or group who authorizes a change is known as "
+            ],
+            "response": [
+                "Change authority"
+            ]
+        }
+    ]
+}

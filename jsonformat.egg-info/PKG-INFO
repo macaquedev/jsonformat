@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: jsonformat
+Version: 0.0.7
+Summary: A simple, small command line utility to format json files.
+Home-page: https://github.com/macaquedev/jsonformat
+Author: Alex Pylypenko
+License: MIT
+Description: jsonformat
+        ==========
+        
+        A simple JSON pretty formatter with no external dependencies.
+        
+        To install, simply type:
+        
+            pip install jsonformat
+        
+        To format a json file, type this:
+        
+            jsonformat <filename> [-q]
+        
+        The filename argument is mandatory. The -q argument switches off console output.
+Platform: UNKNOWN
+Requires-Python: >=3.3
+Description-Content-Type: text/x-rst

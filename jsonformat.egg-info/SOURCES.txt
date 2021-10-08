@@ -1,0 +1,8 @@
+README.md
+setup.py
+jsonformat.egg-info/PKG-INFO
+jsonformat.egg-info/SOURCES.txt
+jsonformat.egg-info/dependency_links.txt
+jsonformat.egg-info/entry_points.txt
+jsonformat.egg-info/requires.txt
+jsonformat.egg-info/top_level.txt

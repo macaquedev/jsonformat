@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name='jsonformat',
-    version='0.0.6',
+    version='0.0.7',
     license="MIT",
     entry_points={
         'console_scripts': ['jsonformat=jsonformat:cli'],

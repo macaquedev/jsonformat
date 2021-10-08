@@ -14,8 +14,8 @@ def cli():
     with open(args.filename) as f:
         data = json.load(f)
 
-    with open(args.filename, "w") as f:
-        json.dump(data, f, indent=4)
+    with open(args.filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
 
     if not args.quiet:
         print("Done.")

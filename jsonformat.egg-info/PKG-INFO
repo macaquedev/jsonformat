@@ -1,9 +1,10 @@
 Metadata-Version: 2.1
 Name: jsonformat
-Version: 0.0.7
+Version: 0.0.11
 Summary: A simple, small command line utility to format json files.
 Home-page: https://github.com/macaquedev/jsonformat
 Author: Alex Pylypenko
+Author-email: macaquedev@gmail.com
 License: MIT
 Description: jsonformat
         ==========

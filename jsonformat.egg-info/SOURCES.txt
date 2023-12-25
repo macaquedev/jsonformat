@@ -1,5 +1,7 @@
 README.md
 setup.py
+jsonformat/__init__.py
+jsonformat/jsonformat.py
 jsonformat.egg-info/PKG-INFO
 jsonformat.egg-info/SOURCES.txt
 jsonformat.egg-info/dependency_links.txt
